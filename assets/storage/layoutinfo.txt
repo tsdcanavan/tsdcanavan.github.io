@@ -1,0 +1,11 @@
+screen				1800 100%			950
+
+
+headSpace
+headBox				285	16%				45	5%				615		131			w	330	h	85
+navBox				995	55%				45	5%				1485	131			w	490 h	85
+background			145	8%				135 14%
+about				285	16%				200 21%
+contact				1000 55%		 	200 21%
+footer				145	8%				835 88%
+

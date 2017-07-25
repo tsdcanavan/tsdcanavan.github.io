@@ -1,0 +1,20 @@
+nav{
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding-top: 5px;
+  padding-bottom: 30px;
+}
+
+nav li {
+	float: right;
+  	display: inline-block;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 15px 10px;
+  color: gray;
+}

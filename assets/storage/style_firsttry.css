@@ -1,0 +1,109 @@
+body {
+	background-color: 	#ffffff; 
+}
+
+h1 {
+	float: left;
+	background-color: #4aaaa5;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	width: 20%;
+	margin: 10px 75px 10px 75px;
+	padding: 15px 30px 16px 30px; 
+}
+
+h2 {
+	color: #4aaaa5;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	width: 100%;
+	margin: 30px 75px 30px 75px;  
+	padding: 15px 30px 15px 30px; 
+}
+
+nav{
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding-top: 5px;
+  padding-bottom: 30px;
+}
+
+nav li {
+	float: right;
+  	display: inline-block;
+}
+
+nav a {
+  font-weight: 800;
+  padding: 15px 10px;
+  color: gray;
+}
+
+footer {
+  border-color: #4aaaa5;
+  border-top: 10px;
+  background-color: dimgray;
+  float: center;
+  font-size: 0.75em;
+  clear: both;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #ccc;
+}
+
+#top-line {
+	border-bottom: 3px solid gray;
+	margin: 10px;
+	padding: 10px; 
+}
+
+#main {
+	float: left;
+	width: 90%;
+}
+#bio-image {
+	float: left;
+	width: 200px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+#main-bio {
+	border: 3px solid;
+	float: left;
+	width: 40%;
+	margin: 0% 5% 0% 10%;
+	border-top: 3px solid gray;
+	position: relative;
+	left: -3%;
+}
+
+#connect {
+	float: right;
+	width: 25%;
+	margin: 0% 5% 0% 10%;
+	font-size: 15px;
+	border: 3px solid; 
+}
+
+.about {
+	position: relative;
+	left: -50%;
+}	
+
+.classHeader {
+	position: absolute;
+	font-size: 20px;
+	text-align: left;
+f}	
+
+.link-img {
+	float: auto;
+	width: 35px;
+}
