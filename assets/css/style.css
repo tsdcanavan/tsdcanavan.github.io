@@ -1,9 +1,22 @@
 
-.col-md-6 {
-	text-align: center;
+.col-left {
+	text-align: left;
 	text-decoration: 	none;
 }
 
+.col-right {
+	text-align: right;
+	text-decoration: 	none;
+}
+
+.col-center {
+	text-align: center;	
+	text-decoration: none;
+}
+
+.col-center p {
+	color: lightgray;
+}
 .tc-jumbotron {
 	background-color: green;
 	text-align: center;
