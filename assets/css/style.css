@@ -1,13 +1,11 @@
-h1 {
-	text-align: center;
-}
 
 .col-md-6 {
 	text-align: center;
 	text-decoration: 	none;
 }
 
-.jumbotron {
+.tc-jumbotron {
 	background-color: green;
-
+	text-align: center;
+	color: 	yellow;	
 }
